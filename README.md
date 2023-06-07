@@ -1,9 +1,13 @@
 # Vue_liveness_check
 
-<video src="LINK" controls="controls" style="max-width: 730px;">
-</video>
-
 This template should help get you started developing with Vue 3 in Vite.
+
+## Video demo
+
+
+
+https://github.com/nguyenbien/vue_liveness_check/assets/3041040/ae16d783-1cc8-4e40-b892-1b726caf3f12
+
 
 ## Recommended IDE Setup
 
